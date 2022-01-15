@@ -4,7 +4,7 @@
 - 🌱 I’m currently deepening my knowledge in Data Engineering
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 💬 Ask me about anything, I can't garantee a right answer, but I will try!
-- 📫 How to reach me: https://linkedin.com/in/vander-andrade-334aa114b
+- 📫 How to reach me: https://linkedin.com/in/vander-andrade
 
 ![csharp](https://img.shields.io/badge/-c_%23-grey?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=2d81e2)
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=2d81e2)
